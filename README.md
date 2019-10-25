@@ -4,7 +4,7 @@
 
 You can download and execute the install file, or run this following code in the arch boot.
 
-sh -c "curl -fsSL https://raw.githubusercontent.com/Julianobsg/arch-config/master/install.sh"
+sh -c "curl -fsSL https://raw.githubusercontent.com/bruno-caldas/arch-config/master/install.sh" > install.sh
 
 Follow the steps to install.
 
